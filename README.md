@@ -1,5 +1,5 @@
 
-# 3 Colmns Preview Card - Frontend Mentor
+# 3 Columns Preview Card - Frontend Mentor
 
 Desafio do site Frontend Mentor. Esse projeto é um grid de cards ótimo para aprimorar as habilidades de CSS.
 
